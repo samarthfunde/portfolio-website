@@ -1,3 +1,4 @@
 ﻿# portfolio-website
-### Project Purpose is Practise of Git & Github
+### main Project Purpose is Practice of Git & Github Commands
+
 
